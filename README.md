@@ -34,3 +34,5 @@ be recorded on its PR. No automatic merge is enabled by this workflow.
 When the frontend skeleton is introduced, add a committed dependency lockfile,
 locked installation, lint, typechecking, UI/unit tests, and a production build to
 the jobs feeding `App CI`. None of those application checks exists in this baseline.
+
+[Deliberate gate proof](missing-gate-proof.md)
